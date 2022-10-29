@@ -5,3 +5,8 @@
 Последний коммит
 commit c161ed6dea0a782395e8b263681daaae54c9a28c (HEAD -> develop, origin/develop)
 Date:   Sat Oct 29 12:11:53 2022 +0300
+
+Репозиторий коллеги
+https://github.com/Ragnarok-039/DE_Sprint
+последний коммит
+Date: Thu Oct 27 16:39:39 2022 +0200
